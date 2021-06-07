@@ -14,3 +14,5 @@ A food Ordering Application based on Flutter. Completely Api based.
 - Classes/ListBuilder/MaterialButton/Navigator
 
 ### UI
+<img src="details.jpeg" height=400>    <img src="cartempty.jpeg" height=400> 
+<img src="user1.jpeg" height=400>   <img src="user2.jpeg" height=400>
