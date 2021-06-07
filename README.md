@@ -1,16 +1,16 @@
-# flutter_food_app
+# PieBar 
 
-A new Flutter application.
+A food Ordering Application based on Flutter. Completely Api based. 
 
-## Getting Started
+### Features
+- Browse All cakes/cusines available by the Seller/Owner.
+- Add to the cart with number of items to be bought.
+- Add details of the user - place the order :).
 
-This project is a starting point for a Flutter application.
+### Library / Dependencies 
+- Material
+- FutureBuilder
+- http
+- Classes/ListBuilder/MaterialButton/Navigator
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### UI
